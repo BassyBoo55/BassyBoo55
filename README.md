@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on the MyBass suite of applications
 - 🌱 I’m currently learning Javascript, Sass and TailwindCSS
-- 👯 I’m looking to collaborate on MyBassConnect
+- 👯 I’m looking to collaborate on MyBass
 - 💬 Ask me about anything!
 - 📫 How to reach me: You can DM me on discord (Bass#6307), contact me via my email (bass@mybass.org) or soon you will be able to message me via MyBassChat
 - 😄 Pronouns: They/Them
