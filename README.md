@@ -10,7 +10,7 @@
 
 ![](https://discord.c99.nl/widget/theme-4/740592142165999708.png)
 ![]()
-<a href="https://app.daily.dev/bassyboo55"><img src="https://api.daily.dev/devcards/b1dfab684dbd4bc0a5a06cea4510fae9.png?r=rv3" width="400" alt="BassyBoo's Dev Card"/></a>
+
 
 
 
